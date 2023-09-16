@@ -1,0 +1,10 @@
+{
+  "name": "muleadmin-extension",
+  "version": "1.0.0",
+  "description": "MuleSoft Anypoint Platform Admin Chrome Extension",
+  "main": "index.js",
+  "repository": "git@github.com:alancota/muleadmin-extension.git",
+  "author": "Alan Cota <alancota@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
